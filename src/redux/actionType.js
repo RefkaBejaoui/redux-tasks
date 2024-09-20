@@ -1,0 +1,5 @@
+export const ADDING = "ADDING"
+export const SHOING = "SHOWING"
+export const DOING ="DOING"
+export const EDIT = "EDIT"
+export const DELETE ="DELETE"
